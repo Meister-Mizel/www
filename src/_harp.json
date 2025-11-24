@@ -1,0 +1,21 @@
+{
+  "globals": {
+    "title": "DIOSA Kosmetik - Dortmund",
+    "description": "Meine Kosmetikseite mit den wichtigsten Informationen über die Kosmetikerin bei Diosa Kosmetik.",
+    "keywords": "kosmetik dortmund essen bochum kosmetik studio haut wimpern augenbrauen kopfhaut haare",
+
+    "pricelist":{
+      "skincare_basic": "55,00 €",
+      "skincare_premium": "95,00 €",
+      "microneedling": "115,00 €",
+      "microneedling_3pack": "295,00 €",
+      "microdermabrasion": "145,00 €",
+      "microdermabrasion_3pack": "385,00 €",
+      "lash_lifting": "55,00 €",
+      "brow_lifting": "55,00 €",
+      "lashbrow_lifting": "95,00 €",
+      "haircare_basic": "95,00 €",
+      "haircare_premium": "145,00 €"
+    }
+  }
+}

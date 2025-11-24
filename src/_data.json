@@ -1,0 +1,28 @@
+{
+  "index": {
+    "title": "DIOSA KOSMETIK - Dortmund",
+    "description": "Kosmetik Behandlungen und sich fühlen wie eine Königin.",
+    "keywords": "kosmetik dortmund essen bochum unna kosmetik studio haut wimpern augenbrauen kopfhaut haare"    
+  },
+  "about": {
+    "title": "DIOSA KOSMETIK - About",
+    "description": "Über Diosa",
+    "keywords": "kosmetik dortmund essen bochum kosmetik studio haut wimpern augenbrauen kopfhaut haare"
+  },
+  "impressum": {
+    "title": "DIOSA KOSMETIK - Impressum",
+    "description": "Impressum",
+    "keywords": "kosmetik dortmund essen bochum kosmetik studio haut wimpern augenbrauen kopfhaut haare"
+  },
+  "contact": {
+    "title": "DIOSA KOSMETIK - Kontakt",
+    "description": "Kontakt",
+    "keywords": "kosmetik dortmund essen bochum kosmetik studio haut wimpern augenbrauen kopfhaut haare"
+  },
+  "portfolio-details": {
+    "layout": false
+  },  
+  "sitemap.xml": {
+    "layout": false
+  }
+}
